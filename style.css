@@ -1,0 +1,23 @@
+body {
+    background-color: #a09898;
+    padding: 0px;
+}
+
+.navbar {
+    background-color: rgb(252, 249, 249);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+ul {
+    display: flex;
+    width:100%;
+}
+li {
+    width: 100%;
+
+}
